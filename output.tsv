@@ -1,0 +1,5 @@
+id	length	gc_percent	A	C	G	T	U	N	other
+seq1	74	54.05	16	18	22	18	0	0	0
+seq2	32	87.50	2	14	14	2	0	0	0
+seq3	36	0.00	16	0	0	18	0	2	0
+# sequences=3 total_length=142 overall_gc_percent=48.57
